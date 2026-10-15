@@ -253,7 +253,7 @@ nslookup <IP-suspeito>
 | **Nível**          | Iniciante / Intermediário                              |
 
 ---
-[Uploading AKM_Launcher.bat…]()
+
 
 > 📁 **Projeto:** AKM Commands
 > 👤 **Autor:** Richard
